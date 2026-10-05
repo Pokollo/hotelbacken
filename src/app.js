@@ -1,6 +1,6 @@
 import express from "express"
 import routerTipoHabitacion from "./routes/tipoHabitacion.js"
-import routerUsuario from "./routes/usuario.js"
+import routerUsuario from "./routes/Usuario.js"
 import routerHabitacion from "./routes/Habitacion.js"
 import routerReserva from "./routes/Reserva.js"
 import cors from "cors"
